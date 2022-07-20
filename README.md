@@ -17,4 +17,4 @@ This is a design for plumbing companies to use to advertise themselves, the proj
 
 ### Screenshot
 
-![The Plumbing Website](https://github.com/siyabongakonile/FigmaDesigns/blob/main/DJWebsite/Large%20screen%20-%20plumbing.png)
+![The Plumbing Website](https://github.com/siyabongakonile/FigmaDesigns/blob/main/PlumbingWebsite/Large%20screen%20-%20plumbing.png)
